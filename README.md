@@ -1,6 +1,13 @@
+This is a website created using react , show's different restaurants and it's details
+
+
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run the application 
+npm start
 
 ## Available Scripts
 
